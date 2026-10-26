@@ -1,0 +1,13 @@
+baseURL = 'http://localhost:1313/'
+defaultContentLanguage = 'zh'
+locale = 'zh-CN'
+title = '瑞士中国学人科技协会'
+timeZone = 'Europe/Zurich'
+enableRobotsTXT = true
+disableKinds = ['taxonomy', 'term', 'section']
+[pagination]
+pagerSize = 18
+[markup.goldmark.renderer]
+unsafe = true
+[outputs]
+home = ['HTML', 'RSS', 'JSON']

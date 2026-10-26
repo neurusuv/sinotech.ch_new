@@ -1,0 +1,1 @@
+[{{ range $i, $p := where site.RegularPages "Type" "ne" "listings" }}{{ if $i }},{{ end }}{{ dict "title" $p.Title "url" $p.RelPermalink "date" ($p.Date.Format "2006-01-02") "text" $p.Plain | jsonify | safeJS }}{{ end }}]

@@ -1,0 +1,1 @@
+{{ define "main" }}<section class="news"><div class="section-head"><h1>{{ .Title }}</h1></div><div class="cards">{{ range .Pages.ByDate.Reverse }}{{ partial "card.html" . }}{{ end }}</div></section>{{ end }}

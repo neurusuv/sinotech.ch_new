@@ -1,0 +1,1 @@
+{{ define "main" }}<section class="news"><div class="section-head"><h1>{{ .Title }}</h1></div><div class="cards">{{ range .Params.items }}{{ $source := . }}{{ range where site.RegularPages "Params.source" $source }}{{ partial "card.html" . }}{{ end }}{{ end }}</div><div class="pagination"><a href="/">浏览全部文章 →</a></div></section>{{ end }}

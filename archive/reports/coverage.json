@@ -1,0 +1,17 @@
+{
+  "listing_article_urls": 466,
+  "converted_article_urls": 466,
+  "missing_articles": [],
+  "text_comparisons": 515,
+  "text_mismatches": [],
+  "resource_records": 428,
+  "resource_bytes": 168962763,
+  "image_records": 390,
+  "hostname": "TP",
+  "browser_checks": {
+    "home": "passed; screenshot retained",
+    "search": "春晖杯 returns 69 matches",
+    "article": "/archives/7165.html visual inspection passed",
+    "mobile": "responsive CSS present; mobile viewport not visually inspected"
+  }
+}

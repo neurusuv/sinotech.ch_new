@@ -1,0 +1,905 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="//www.w3.org/1999/xhtml">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible">
+		<title>中国教育和科研计算机网CERNET</title>
+		<meta name="keywords" content="中国教育网,中国教育,科研发展,教育信息化,CERNET,CERNET2,下一代互联网,人才,人才服务,教师招聘,教育资源,教育服务,教育博客,教育黄页,教育新闻,教育资讯" />
+		<meta name="description" content="中国教育网（中国教育和科研计算机网）是中国权威的教育门户网站，是了解中国教育的窗口。网站提供互联网技术、下一代互联网、高校科技、教育信息化、网络安全、中国教育等相关新闻动态及最新政策。" />
+		<meta name="copyright" content="www.edu.cn" />
+		<meta content="all" name="robots" />
+		<link href="/css/index/edu2011/edu2011.css" rel="stylesheet" type="text/css">
+
+		<base target="_blank" />
+		<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+		<script type="text/javascript" src="/c_js/public/jquery-3.7.1.min.js"></script>
+
+		<script src="/js/index/edu2011/edu_2011.js" type="text/javascript"></script>
+		<script language="JavaScript" src="/js/index/edu2011/tabs.js"></script>
+		<script language="JavaScript" src="/js/index/edu2011/load_js.js"></script>
+	</head>
+
+	<body>
+		
+		 <style>
+		    ::-webkit-scrollbar {
+                /*改变纵向滚动条宽度*/
+                width: 16px;
+            }
+            ::-webkit-scrollbar-track {
+                /*改变滚动条轨道颜色*/
+                background-color: #f1f1f1;
+                -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+            }
+            ::-webkit-scrollbar-thumb {
+                /*改变滚动条滑轨相关的样式*/
+                background-color: #c1c1c1;
+            }
+            /* 移入鼠标效果 */
+            ::-webkit-scrollbar-thumb:hover {
+                border-radius: 0;
+                background-color: #a8a8a8;
+            }
+		 </style>
+<!-- <script language="javascript" type="text/javascript" src="/js/index/edu2011/eduTopBar960.js" ignoreapd="false"></script>-->
+
+
+
+
+<div class="top_bg">
+<div class="date"><script type="text/javascript">showdate();</script></div>
+<h1>中国教育和科研计算机网CERNET</h1>
+<!-- <h2><a href="http://www.edu.cn/english/">English</a></h2> -->
+</div>
+
+                <div class="edu_main">
+<p align="center"><img src="/images/index/edu2011/nav_lanm_2018.jpg" alt="中国教育和科研计算机网CERNET" width="960" height="40" usemap="#Map" border="0"/>
+<map name="Map" id="Map">
+	<area shape="rect" coords="10,4,131,36" href="/edu/" />
+	<area shape="rect" coords="144,4,250,36" href="/rd/" />
+	<area shape="rect" coords="264,4,390,36" href="/info/" />
+	<area shape="rect" coords="402,4,543,36" href="/xxh/ji_shu_ju_le_bu/cernet2_lpv6/" />
+	<area shape="rect" coords="550,4,662,36" href="/cernet_fu_wu/" />
+	<area shape="rect" coords="680,4,785,36" href="https://www.edu.cn/rd/wang_luo_yan_jiu_yu_fa_zhan/" />
+	<area shape="rect" coords="809,3,945,36" href="#" />
+</map></p>
+</div>
+
+		<p class="blank10"></p>
+		<div class="edu_main">
+			<div class="left_270 left">
+				
+<div class="tag_12_title" id="tag_20_tit">
+	<a href="/edu/jiao_yu_bu/" class="current">教育部专区</a>
+	<a href="/rd/">高校科技</a>
+</div>
+<div class="cernet_yj" id="tag_20_con">
+	<ul>
+	<li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202610/t20261009_2780425.shtml">教育部公布最新自设二级学科和交叉学科名单</a></li>
+	<li><a href="https://www.edu.cn/rd/meeting/xinwen/202607/t20260716_2757031.shtml" style="letter-spacing:-1px;">教育部部署推进下半年和今后一个时期重点工作</a></li>
+	<li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202607/t20260707_2753091.shtml">教育部发布2025年全国教育事业发展统计公报</a></li>
+	<li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202606/t20260618_2746479.shtml">3196所！教育部发布全国高等学校最新名单</a></li>
+	<li><a href="https://www.edu.cn/info/zt/szdh/202605/t20260515_2734798.shtml">怀进鹏在2026世界数字教育大会上的主旨演讲</a></li>
+		<li><a href="https://www.edu.cn/info/focus/gzyb/">专栏 ｜ 教育信息化和网络安全工作月报</a></li> 
+
+
+
+
+
+	</ul>
+
+	<style type="text/css">
+	.ajax_undis li{
+		overflow: hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+	}
+</style>
+<ul class="undis ajax_undis ajax_undis1">
+<li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202609/t20260921_2776392.shtml"  style="letter-spacing:-1px;">中办、国办印发《关于分类推进高校改革的意见》</a></li>
+<li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202607/t20260715_2756409.shtml">教育部召开加强高校基础研究工作座谈会</a></li>
+<li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202604/t20260424_2730417.shtml"  style="letter-spacing:-1px;">高校区域技术转移转化中心工作推进座谈会召开</a></li>
+<li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202604/t20260413_2727707.shtml" >2026年全国教育科研工作会议在北京召开</a></li>
+<li><a href="https://www.edu.cn/rd/gai_kuang/xin_wen_gong_gao/202604/t20260403_2726285.shtml">教育部启动实施高校专利转化运用攻坚行动</a></li>
+
+<li><a href="https://www.edu.cn/info/yc/202406/t20240625_2619332.shtml"  style="letter-spacing:-1px;">吴建平院士牵头的项目获国家科技进步奖一等奖</a></li>
+
+
+
+
+			
+</ul>
+
+<script type="text/javascript">
+//	$.ajax({
+//	    url: "http://gxkj.www.edu.cn/api/article/topread",
+//	    type: 'POST',
+//	    async: true,
+//	    dataType: 'jsonp',
+//	    data: {
+//	      'category_id':'2',
+//	      'limit': '6',
+//	      'order':'send_time desc'
+//	    },
+//	    success: function(data) {
+//	    		for (var i=0;i<data.data.length;i++) {
+//	    			var itemUrl = 'http://gxkj.www.edu.cn/news/'+data.data[i].id+'.html'
+//	    			var itemLi = '<li><a href='+itemUrl+'>'+data.data[i].title+'</a></li>';
+//	    			$('.ajax_undis1').append(itemLi);
+//	    		}
+//	    },
+//	    error: function(XMLHttpRequest, textStatus, errorThrown) {
+//	    		alert('数据出现错误啦！')
+//	    }
+//	});
+</script>
+</div>
+
+<script type="text/javascript">
+	$('#tag_20_tit a').mouseover(function  () {
+		$('#tag_20_tit a').removeClass('current');
+		$(this).addClass('current');
+		
+		$("#tag_20_con ul").hide();
+		$("#tag_20_con ul").eq($(this).index()).show();
+	})
+	
+	
+</script>
+			</div>
+			<div class="middle_450 left">
+				<style type="text/css">
+<!--
+.STYLE2 {color: #000000}
+-->
+</style>
+
+<div id="fc" class="pic_150">
+
+<div style="display:auto;"><a href="https://www.edu.cn/html/info/wjp-edu/index.html
+"><img src="/c_images/xxh/wjp2026zt-150.jpg" width="150" height="160" border="0" alt="学习全国优秀共产党员吴建平院士先进事迹" onmouseover="clearAuto();" onmouseout="setAuto()" /></a></div>
+
+<div style="display:none;"><a href="https://www.edu.cn/info/focus/zc/202607/t20260722_2758485.shtml"><img src="/c_images/xxh/ipv62026-2030.jpg" width="150" height="160" border="0" alt="《深化互联网协议第六版（IPv6）技术创新和融合应用实施方案（2026—2030年）》发布" onmouseover="clearAuto();" onmouseout="setAuto()" /></a></div>
+
+<div style="display:none;"><a href="https://www.edu.cn/info/focus/rd_xin_wen/202607/t20260729_2760919.shtml"><img src="/c_images/xxh/CERNET20260729.jpg" width="150" height="160" border="0" alt="《中国IPv6发展大事记》亮相中国IPv6创新发展大会 CERNET贡献三分之一" onmouseover="clearAuto();" onmouseout="setAuto()" /></a></div>
+
+
+<script type="text/javascript" src="/js/index/edu2011/focus.js"></script>
+  <!-- 覆盖轮播延迟 -->
+  <script type="text/javascript">
+    p = 5000;   // 覆盖 focus.js 里的 p=2500
+  </script>
+</div>
+
+<div class="toutiao_275">
+
+<h1><a href="https://www.edu.cn/info/focus/zc/202610/t20261026_2786535.shtml"  style="letter-spacing:-1px;">《国家信息化"十五五"规划》<br />
+印发</a></h1>
+
+<ul>
+<li><a href="https://www.edu.cn/rd/gai_kuang/zheng_ce_fa_gui/202610/t20261022_2785188.shtml">中办、国办：推动科技创新和产业创新深度融合</a></li>
+<li><a href="https://www.edu.cn/info/focus/rd_xin_wen/202610/t20261009_2780398.shtml"  style="letter-spacing:-1px;">从规模部署向全面赋能跨越!"十五五"IPv6迈入新征程</a></li>
+<li><a href="https://www.edu.cn/info/yc/202610/t20261016_2783184.shtml">22小时，北京东城教育城域网的极速保障</a></li>
+<li><a href="https://www.edu.cn/rd/gai_kuang/zheng_ce_fa_gui/202610/t20261010_2780791.shtml">《关于发展新质生产力的意见》印发</a> <a href="https://www.edu.cn/rd/zui_jin_geng_xin/202610/t20261010_2780793.shtml">权威解读</a></li>
+
+
+
+
+
+
+  </ul>
+</div>
+
+			</div>
+			<div class="right_230 right">
+				
+<div class="right_226" style="margin:1px 1px;"><span class="right_226" style="margin:1px 1px;"><a href="https://www.edu.cn/rd/gai_kuang/zheng_ce_fa_gui/202606/t20260630_2750628.shtml"><img src="/c_images/xxh/2026jyfzswwgh.jpg" alt="" width="226" height="165" border="0" /></a></span></div>
+
+			</div>
+		</div>
+		<p class="blank10"></p>
+		<div class="edu_main">
+			<div class="left_720 left">
+				<div class="left_270 left">
+					<div class="tag_12_title" id="tag_12_tit">
+	<a href="/info/">教育信息化</a>
+	<a href="/cernet_fu_wu/">CERNET</a>
+</div>
+<div class="cernet_yj" id="tag_12_con">
+	<ul class="ajax_undis ajax_undis2">
+		<li><a href="https://www.edu.cn/info/yc/202601/t20260105_2714254.shtml">2026：谱写高等教育数字化“十五五”新篇章</a></li>
+			<li><a href="https://www.edu.cn/info/zt/xxh155/202601/t20260120_2716806.shtml">《高校“十五五”数字化规划前瞻报告》发布</a></li> 
+			    <li><a href="https://www.edu.cn/info/xy/xytp/202512/t20251222_2711560.shtml" >高校数字化十五五 开启数智化时代的教育转型</a></li>	
+<li><a href="https://www.edu.cn/info/focus/xs_hui_yi/202512/t20251230_2713381.shtml">教育部介绍“十四五”期间教育数字化进展成效</a></li>
+				<li><a href="https://www.edu.cn/info/yc/202512/t20251231_2713557.shtml">回顾2025｜教育数字化相关政策和大事</a></li> 	
+	         <li><a href="https://www.edu.cn/xxh/zt/31cernet/dt/202512/t20251218_2710087.shtml">中国高校CIO校长论坛</a>&nbsp;&nbsp;<a href="https://www.edu.cn/info/zt/31cernet/dt/202512/t20251219_2711158.shtml">中国高校CIO主任论坛</a></li> 	
+	</ul>
+
+	<ul class="undis">
+<li><a href="https://www.edu.cn/info/focus/rd_xin_wen/202607/t20260729_2760919.shtml">"中国IPv6发展大事记"CERNET贡献三分之一</a></li>
+<li><a href="https://www.edu.cn/info/yc/202608/t20260812_2764701.shtml" style="letter-spacing:-1px;">中国CERNET与欧洲GÉANT互联迎来重大升级</a></li>
+<li><a href="https://www.edu.cn/info/yc/202507/t20250731_2683920.shtml">CERNET与北欧学术网NORDUnet实现互联</a></li>
+<li><a href="https://www.edu.cn/c_html/cernet/cernet2025/index.shtml">专题报道 ｜ CERNET第三十一届学术年会</a></li>
+<li><a href="https://www.edu.cn/info/zt/CERNET30/">专栏 ｜ CERNET：中国互联网的重要策源地</a></li>
+  	
+<li><a href="https://www.edu.cn/cernet_fu_wu/ietf/">聚焦：国际互联网工程任务组（IETF）会议</a></li>	
+
+
+			
+			</ul>
+
+</div>
+
+<script type="text/javascript">
+//	$.ajax({
+//	    url: "http://xxh.www.edu.cn/api/article/topread",
+//	    type: 'POST',
+//	    async: true,
+//	    dataType: 'jsonp',
+//	    data: {
+//	      'category_id':'2',
+//	      'limit': '6',
+//	      'order':'send_time desc'
+//	    },
+//	    success: function(data) {
+//	    		for (var i=0;i<data.data.length;i++) {
+//	    			var itemUrl = 'http://xxh.www.edu.cn/news/'+data.data[i].id+'.html'
+//	    			var itemLi = '<li><a href='+itemUrl+'>'+data.data[i].title+'</a></li>';
+//	    			$('.ajax_undis2').append(itemLi);
+//	    		}
+//	    },
+//	    error: function(XMLHttpRequest, textStatus, errorThrown) {
+//	    		alert('数据出现错误啦！')
+//	    }
+//	});
+</script>
+
+				</div>
+				<div class="middle_450 right">
+					<h2><span><MARQUEE onmouseover=this.stop() onmouseout=this.start() scrollDelay=200 scrollamount=3 style="width:320px;margin-right:5px;white-space: nowrap;display:block;">
+
+
+<a href="https://www.edu.cn/info/yc/202512/t20251208_2707643.shtml">清华大学参与共建的国家重大科技基础设施“未来网络试验设施”通过国家验收</a>　
+
+　<a href="https://www.edu.cn/xxh/yc/202406/t20240625_2619332.shtml">吴建平院士牵头的下一代互联网关键核心技术SAVA获国家科学技术进步奖一等奖</a>
+ 
+</marquee>
+
+</span>综合资讯</h2>
+		<ul>	
+		
+		
+<li>[<a href="https://www.ctrunk.cn/">创课天地</a>]&nbsp;&nbsp;<a href="https://www.smartedu.cn/DigitalLiteracy/list?defaultTag=419bb0b1-6872-450b-a906-13c1504c4265%2F67ce6d46-74bf-4183-b936-7cfd16c70cb4%2F10f86760-a1bc-413a-b9a9-e728486ae4f2" >下一代互联网视频课程正式上线国家智慧教育公共服务平台</a></li>
+
+
+<li>[<a href="/xxh/">信 息 化</a>]&nbsp;&nbsp;<a href="https://www.edu.cn/info/focus/zc/202610/t20261019_2783925.shtml">九部门发文加快推进科技兴商 强调升级国家智慧教育平台</a></li>	
+
+
+<li>[<a href="/xxh/">信 息 化</a>]&nbsp;&nbsp;<a href="https://www.edu.cn/info/focus/hyrd/202610/t20261019_2783958.shtml">关注 | 2025-2026年高校信息化应用典型案例征集工作启动</a></li>		
+
+
+
+<li>[<a href="/xxh/">信 息 化</a>]&nbsp;&nbsp;<a href="https://www.edu.cn/info/xy/xytp/202610/t20261015_2782715.shtml">华中科大：高校AI应用安全防护实践</a>　<a href="https://www.edu.cn/info/focus/rd_xin_wen/202610/t20261016_2783172.shtml">未来大学是什么样子？</a></li>		
+
+
+<li>[<a href="https://www.edu.cn/rd/">高校科技</a>]&nbsp;&nbsp;<a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202610/t20261020_2784267.shtml" >国务院学位办: 支持专业学位研究生以实践成果申请学位</a>&nbsp;&nbsp;<a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202610/t20261020_2784268.shtml"  style="letter-spacing:-1px;">解读</a></li>
+			
+ <li>[<a href="https://www.edu.cn/rd/">高校科技</a>]&nbsp;&nbsp;<a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202610/t20261019_2783758.shtml">学科专业设置调整优化工作交流推进会召开</a>　<a href="https://www.edu.cn/rd/zui_jin_geng_xin/202610/t20261020_2784422.shtml" >科研规则新考验</a></li>
+
+	</ul>
+		
+					<div class="no_way"></div>
+				</div>
+				 <!-- 不轮播开始
+	<p class="blank10"></p>
+  <div ><a href="https://www.smartedu.cn/DigitalLiteracy/list?defaultTag=419bb0b1-6872-450b-a906-13c1504c4265%2F67ce6d46-74bf-4183-b936-7cfd16c70cb4%2F10f86760-a1bc-413a-b9a9-e728486ae4f2"><img src="/c_images/xxh/2026spzh.jpg" alt="下一代互联网视频课程上线国家智慧教育公共服务平台
+" width="720" height="90" border="0"></a></div>
+  不轮播结束-->
+
+
+
+
+  <!--轮播开始-->
+	<p class="blank10"></p>
+	<div style="height:90px;overflow:hidden;">
+  <div style="height:90px;overflow:hidden;">
+  <div id="button1" style="display:none;">
+  <a href="https://www.edu.cn/html/info/wjp-edu/index.html"><img src="/c_images/xxh/wjp2026zt-720.jpg" alt="学习全国优秀共产党员吴建平院士先进事迹" width="720" height="90" border="0"></a>
+  </div>
+
+  <div ><a href="https://www.smartedu.cn/DigitalLiteracy/list?defaultTag=419bb0b1-6872-450b-a906-13c1504c4265%2F67ce6d46-74bf-4183-b936-7cfd16c70cb4%2F10f86760-a1bc-413a-b9a9-e728486ae4f2"><img src="/c_images/xxh/2026spzh.jpg" alt="下一代互联网视频课程上线国家智慧教育公共服务平台
+" width="720" height="90" border="0"></a></div>
+
+
+
+
+</div>
+  </div>
+
+  <script>
+var aa=1,ap=5000;
+function opup7(value){
+		for(i=1;i<3;i++){
+//			i==value?document.getElementById('button'+i).style.display="block":document.getElementById('button'+i).style.display="none";
+			i==value?$('#button1').show():$('#button1').hide();
+
+		}
+}
+function opusetAuto8(){setInterval("opuauto8()", ap)}
+function opuauto8(){
+	aa++;
+	if(aa>2) aa=1;
+	opup7(aa);
+}
+opusetAuto8();
+</script>
+  <!-- 轮播结束-->
+
+				<p class="blank10"></p>
+				<!--first-lf-->
+				<div class="left_355 left">
+					<div class="left_ky">
+						<a href="//www.edu.cn/edu/"><img src="//www.edu.cn/images/index/edu2011/zgjy.jpg" width="110" height="28" alt="中国教育" /></a>
+					</div>
+					<p class="blank10"></p>
+					<div class="tag_04_title left" id="tag_04_tit" style="background: url(//www.edu.cn//images/index/edu2011/edu_bg.jpg) no-repeat -500px -220px;">
+						<a href="//www.edu.cn/edu/shi_ye/news/">教育新闻</a>
+						<!--a href="//www.edu.cn/edu/jiao_yu_ping_lun/">教育评论</a-->
+					</div>
+					<div class="left_357_r left">
+						<a href="//www.edu.cn/edu/jiao_yu_yan_jiu/">教育研究</a>&nbsp;|&nbsp;
+						<a href="//www.edu.cn/edu/zhuan_ti_lan_mu/rdzt/">教育专题</a>
+
+					</div>
+					<p class="blank5"></p>
+					<div id="tag_04_con">
+						<ul>
+							
+								<li>
+									<a href="./zhong_guo_jiao_yu/shi_ye/news/202610/t20261012_2781503.shtml">国家智慧教育平台教师发展中心升级上新</a>
+								</li>
+							
+								<li>
+									<a href="./zhong_guo_jiao_yu/shi_ye/news/202610/t20261009_2780425.shtml">教育部公布学位授予单位（不含军队单位）自主设置...</a>
+								</li>
+							
+								<li>
+									<a href="./zhong_guo_jiao_yu/shi_ye/news/202609/t20260924_2777650.shtml">教育部：我国接受过高等教育的人口达2.7亿</a>
+								</li>
+							
+								<li>
+									<a href="./zhong_guo_jiao_yu/shi_ye/news/202609/t20260924_2777644.shtml">教育部：“双一流”高校本科招生数将扩容7.6万人</a>
+								</li>
+							
+								<li>
+									<a href="./zhong_guo_jiao_yu/shi_ye/news/202609/t20260916_2774425.shtml">《高等学校领导人员管理办法》修订印发</a>
+								</li>
+							
+						</ul>
+						<!--ul class="undis">
+							
+								<li>
+									<a href="./zhong_guo_jiao_yu/jiao_yu_ping_lun/202509/t20250925_2692014.shtml">怀进鹏：坚持面向未来，以数字化塑造教育新形态！</a>
+								</li>
+							
+								<li>
+									<a href="./zhong_guo_jiao_yu/jiao_yu_ping_lun/202511/t20251103_2697911.shtml">怀进鹏：中国愿继续与教科文组织合作举办人工智能...</a>
+								</li>
+							
+								<li>
+									<a href="./zhong_guo_jiao_yu/jiao_yu_ping_lun/202511/t20251103_2697717.shtml">专家众议丨高校物联网建设现状与挑战</a>
+								</li>
+							
+								<li>
+									<a href="./zhong_guo_jiao_yu/jiao_yu_ping_lun/202510/t20251022_2695656.shtml">李星：IPv6最大的应用可能是给“机器人”联网</a>
+								</li>
+							
+								<li>
+									<a href="./zhong_guo_jiao_yu/jiao_yu_ping_lun/202509/t20250919_2690793.shtml">李星：必须全力推进IPv6单栈</a>
+								</li>
+							
+						</ul-->
+					</div>
+					<p class="blank5"></p>
+				</div>
+				<!--first-ri-->
+				<div class="left_355 right">
+					<div class="left_ky">
+						<a href="//www.edu.cn/rd/"><img src="//www.edu.cn/images/index/edu2011/gxkj.jpg" width="110" height="28" alt="高校科技" /></a>
+					</div>
+					<p class="blank10"></p>
+					<div class="tag_04_title left" id="newri_tit">
+						<a href="//www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/" class="current">高校资讯</a>
+						<a href="//www.edu.cn/rd/gao_xiao_cheng_guo/cheng_guo_zhan_shi/">科技成果</a>
+					</div>
+					<div class="left_357_r left">
+						<a href="//www.edu.cn/ke_yan_yu_fa_zhan/rwgs/">科技人才</a>&nbsp;|&nbsp;
+						<a href="//www.edu.cn/rd/meeting/">学术会议</a>
+
+					</div>
+					<p class="blank5"></p>
+					<div id="newri_con">
+						<ul>
+							
+								<li>
+									<a href="./ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/gao_xiao_zi_xun/202610/t20261026_2786378.shtml">京津冀高校共建37个二级学院，建立共管机制 实施“...</a>
+								</li>
+							
+								<li>
+									<a href="./ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/gao_xiao_zi_xun/202610/t20261026_2786377.shtml">全国大学生创业工作推进会议召开</a>
+								</li>
+							
+								<li>
+									<a href="./ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/gao_xiao_zi_xun/202610/t20261026_2786376.shtml">国务院学位委员会学科评议组、部分全国专业学位研...</a>
+								</li>
+							
+								<li>
+									<a href="./ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/gao_xiao_zi_xun/202610/t20261023_2785725.shtml">我国高校未来技术学院初步涌现一批人才培养成果</a>
+								</li>
+							
+								<li>
+									<a href="./ke_yan_yu_fa_zhan/gai_kuang/zheng_ce_fa_gui/202610/t20261022_2785188.shtml">中办、国办发布《关于推动科技创新和产业创新深度...</a>
+								</li>
+							
+						</ul>
+						<ul class="undis">
+							
+								<li>
+									<a href="./ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/cheng_guo_zhan_shi/202610/t20261023_2785806.shtml">中国科学家研制出世界最轻无线介观显微镜</a>
+								</li>
+							
+								<li>
+									<a href="./ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/cheng_guo_zhan_shi/202610/t20261023_2785797.shtml">清华团队提出米级单晶增材制造新方法</a>
+								</li>
+							
+								<li>
+									<a href="./ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/cheng_guo_zhan_shi/202610/t20261022_2785215.shtml">科学家发现首例确凿的黑洞重复潮汐瓦解恒星事件</a>
+								</li>
+							
+								<li>
+									<a href="./ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/cheng_guo_zhan_shi/202610/t20261019_2783763.shtml">天津大学团队破解太赫兹超表面制造误差难题</a>
+								</li>
+							
+								<li>
+									<a href="./ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/cheng_guo_zhan_shi/202610/t20261016_2783072.shtml">我国科研团队取得石墨烯膜“强韧弹”三合一突破</a>
+								</li>
+							
+						</ul>
+					</div>
+
+				</div>
+				<p class="blank10"></p>
+				<div class="left_355 left">
+					<div class="left_ky"><a href="/info/"><img src="/images/index/edu2011/jiaoyuxxh.jpg" width="113" height="28" alt="教育信息化" /></a></div>
+			
+					<p class="blank10"></p>
+					<div class="tag_05_title" id="tag_06_tit">
+						<a href="./xxh/tpxw/">行业热点</a>
+						<a href="./xxh/focus/li_lun_yj/">专家观点</a>
+						<a href="./cernet_fu_wu/" style="letter-spacing: -1px;">CERNET服务</a>
+						<a href="./xxh/zt/">专题报道</a>
+					</div>
+					<p class="blank5"></p>
+					<div id="tag_06_con">
+						<ul>
+							
+								<li>
+									<a href="./xxh/focus/rd_xin_wen/202610/t20261026_2786573.shtml">教育网安全观察丨高校应高度重视大模型安全治理</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/focus/zctp/202610/t20261026_2786546.shtml">重要互联网组织机构动态（2026年9月）</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/focus/zc/202610/t20261026_2786535.shtml">中央网络安全和信息化委员会印发《国家信息化“十...</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/focus/zctp/202610/t20261026_2786520.shtml">全球教科网动态（2026年9月）</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/focus/rd_xin_wen/202610/t20261023_2785948.shtml">数据赋能院级管理！南昌大学综合院情看板V1.0正式上线</a>
+								</li>
+							
+
+						</ul>
+						<ul class="undis">
+							
+								<li>
+									<a href="./xxh/focus/li_lun_yj/202610/t20261021_2785037.shtml">清华大学党委书记邱勇：推进人工智能与哲学社会科...</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/focus/li_lun_yj/202610/t20261021_2785006.shtml">IPv6单栈部署发展趋势与推进路径探索</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/focus/li_lun_yj/202610/t20261020_2784505.shtml">人民日报 | AI+教育，“加”什么，如何“加”</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/focus/rd_xin_wen/202610/t20261016_2783172.shtml">未来大学是什么样子？</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/focus/li_lun_yj/202610/t20261015_2782726.shtml">AI赋能高校辅导员队伍的“变”与“不变”</a>
+								</li>
+							
+
+						</ul>
+						<ul class="undis">
+							
+								<li>
+									<a href="./cernet_fu_wu/cernet_news/zui_xin_bo_bao/202610/t20261008_2779928.shtml">CERNET免费地址列表变更通知（2026.10）</a>
+								</li>
+							
+								<li>
+									<a href="./cernet_fu_wu/cernet_news/zui_xin_bo_bao/202608/t20260831_2769342.shtml">CERNET免费地址列表变更通知（2026.09）</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/yc/202608/t20260812_2764701.shtml">中欧科研教育网络合作跨入百G时代！中国CERNET与欧...</a>
+								</li>
+							
+								<li>
+									<a href="./cernet_fu_wu/cernet_news/zui_xin_bo_bao/202608/t20260803_2762221.shtml">CERNET免费地址列表变更通知（2026.08）</a>
+								</li>
+							
+								<li>
+									<a href="./cernet_fu_wu/cernet_news/zui_xin_bo_bao/202607/t20260701_2751170.shtml">CERNET免费地址列表变更通知（2026.07）</a>
+								</li>
+							
+						</ul>
+						<ul class="undis">
+							
+								<li>
+									<a href="https://www.edu.cn/html/info/wjp-edu/index.html">传承榜样精神 汲取奋进力量——学习全国优秀共产党...</a>
+								</li>
+							
+								<li>
+									<a href="https://www.edu.cn/info/zt/CERNET30/">CERNET：中国互联网的重要策源地</a>
+								</li>
+							
+								<li>
+									<a href="https://www.edu.cn/html/info/HEIC2026/index.html">「数智跃升·向新而行」2025—2026年高校信息化应...</a>
+								</li>
+							
+								<li>
+									<a href="https://www.edu.cn/c_html/cernet/cernet2025/index.shtml">CERNET第三十一届学术年会在哈尔滨胜利闭幕</a>
+								</li>
+							
+								<li>
+									<a href="https://www.edu.cn/c_html/cernet/cernet2024/index.shtml">CERNET第三十届学术年会在北京举办</a>
+								</li>
+							
+
+						</ul>
+					</div>
+				</div>
+				<div class="left_355 right">
+					<div class="left_ky">
+						<a href="//www.edu.cn/xxh/ji_shu_ju_le_bu/cernet2_lpv6/"><img src="//www.edu.cn/images/index/edu2011/xyd.jpg" width="149" height="28" alt="下一代互联网" /></a>
+					</div>
+					<p class="blank10"></p>
+					<div class="tag_04_title left" id="newri_tit2" style="background: url(//www.edu.cn//images/index/edu2011/edu_bg.jpg) no-repeat -500px -220px;">
+						<a href="//www.edu.cn/xxh/ji_shu_ju_le_bu/cernet2_lpv6/cngi_news/" class="current">政策资讯</a>
+					</div>
+					<div class="left_357_r left">
+						<a href="//www.edu.cn/xxh/ji_shu_ju_le_bu/cernet2_lpv6/cernet2/">CNGI-CERNET2</a>
+					</div>
+					<p class="blank5"></p>
+					<div id="newri_con2">
+						<ul>
+							
+								<li>
+									<a href="./xxh/focus/rd_xin_wen/202607/t20260729_2760919.shtml">《中国IPv6发展大事记》亮相中国IPv6创新发展大会 ...</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/focus/zc/202607/t20260722_2758485.shtml">《深化互联网协议第六版（IPv6）技术创新和融合应...</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/focus/rd_xin_wen/202606/t20260618_2746522.shtml">下一代互联网视频课程上线国家智慧教育公共服务平台</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/cernet/IPv6/202604/t20260428_2731210.shtml">全球IPv6单栈演进趋势观察</a>
+								</li>
+							
+								<li>
+									<a href="./xxh/yc/202601/t20260126_2717409.shtml">赛尔网络推动IPv6发展大事记（2000-2025）</a>
+								</li>
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="right_230 right">
+					<div class="tag_03_title"  id="tag_03_tit"><a href="#" onclick="return false">教育聚焦</a><a href="#" onclick="return false">校园热点</a></div> 
+	
+<div  class="right_xy" id="tag_03_con"> 
+  <ul>
+    <li><a href="https://www.edu.cn/info/tpxw/202606/t20260630_2750628.shtml">国务院印发"教育发展'十五五'规划"</a></li>
+	  <li><a href="https://www.edu.cn/info/focus/zc/202604/t20260413_2727796.shtml"   style="letter-spacing:-1px;">用好教育和科研计算机网 ! 五部门发文</a></li>
+	  <li><a href="https://www.edu.cn/info/zhuan_jia_zhuan_lan/wu_jian_ping/202607/t20260722_2758472.shtml">推动IPv6赋能网络空间高质量发展</a></li>
+   <li><a href="https://www.edu.cn/info/focus/zc/202607/t20260714_2755767.shtml">加强IPv6技术体系创新! 四部门发文</a></li>
+
+    <li><a href="https://www.edu.cn/info/zhuan_jia_zhuan_lan/wu_jian_ping/202606/t20260624_2748297.shtml"   style="letter-spacing:-1px;">以信仰之光照亮互联网自主自强之路</a></li>
+  <li><a href="https://www.edu.cn/info/zhuan_jia_zhuan_lan/wu_jian_ping/202605/t20260507_2732718.shtml">深度参与IETF 筑牢互联网强国之基</a></li>
+<li><a href="https://www.edu.cn/info/zt/IETF/202604/t20260429_2731767.shtml"   style="letter-spacing:-1px;">中国如何走进互联网标准制定核心圈</a></li>
+  
+  <li><a href="https://www.edu.cn/info/focus/li_lun_yj/202509/t20250919_2690793.shtml">李星：必须全力推进IPv6单栈</a></li>
+   <li><a href="https://www.edu.cn/info/focus/li_lun_yj/202606/t20260610_2743585.shtml">王继龙：赋能AI 然后让AI赋能一切</a></li> 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	
+    
+
+
+
+
+
+
+	   
+   
+
+
+
+ 
+
+
+
+  
+	   		   					
+ 
+
+
+  						
+                
+
+  
+	
+    <p class="blank_xx"></p>
+	
+	<li><a href="https://www.edu.cn/info/zhuan_jia_zhuan_lan/wu_jian_ping/202604/t20260414_2728107.shtml">人工智能是互联网的智能延伸</a></li>
+	 <li><a href="https://www.edu.cn/info/focus/rd_xin_wen/202606/t20260608_2742499.shtml">互联网不再只为人类服务</a></li> 
+  <li><a href="https://www.edu.cn/info/ji_shu_ju_le_bu/rgzn/202604/t20260413_2727802.shtml">人工智能时代的教育路径选择</a></li>
+    <li><a href="https://www.edu.cn/info/focus/rd_xin_wen/202607/t20260708_2753618.shtml"   style="letter-spacing:-1px;">如何利用好人工智能这个"关键变量"?</a></li>
+  <li><a href="https://www.edu.cn/info/focus/li_lun_yj/202607/t20260706_2752780.shtml">AI驱动教育数智化转型</a></li>
+
+  <li><a href="https://www.edu.cn/info/xy/xytp/202605/t20260508_2733187.shtml">AI让高校网络安全实现"主动免疫"</a></li>
+  	<li><a href="https://www.edu.cn/info/focus/zc/202605/t20260528_2738385.shtml">国家为智能体立规矩，来看五文件</a></li>
+  <li><a href="https://www.edu.cn/info/tpxw/202604/t20260416_2728690.shtml">智能体安全治理的挑战与思考</a></li>
+   <li><a href="https://www.edu.cn/info/focus/rd_xin_wen/202606/t20260626_2749596.shtml">准备好迎接下一波AI浪潮了吗？</a></li>
+
+
+
+
+		   
+
+
+   
+ 
+	
+
+	
+		
+ 		
+	
+
+   
+  	
+
+  
+	  
+
+
+
+    		   					
+       				
+                
+				
+				
+    <p class="blank_xx"></p>
+	     <li><a href="http://cx.resource.edu.cn/">专题报道：高校科技创新重大成就</a></li>	
+	   <li><a href="https://www.edu.cn/rd/gai_kuang/zheng_ce_fa_gui/202501/t20250120_2651944.shtml"  style="letter-spacing:-1px;">教育强国建设规划纲要 (2024-2035年)</a></li>		
+     <li><a href="https://www.edu.cn/rd/special_topic/gjkjj/202607/t20260710_2754709.shtml" >2025年度国家科学技术奖公布</a></li>
+	   <li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/ssgx/202607/t20260709_2754444.shtml" >2025国家"三大奖"高校获奖统计</a></li>
+    <li><a href="https://www.edu.cn/rd/special_topic/gjkjj/202607/t20260713_2755399.shtml"  style="letter-spacing:-1px;">2所高校获2025国家自然科学奖一等奖</a></li>  
+  <li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202606/t20260623_2747869.shtml">怀进鹏：建好高水平应用型大学</a></li>
+	 	
+
+ 
+      <li><a href="https://www.edu.cn/rd/zui_jin_geng_xin/202607/t20260715_2756372.shtml">2026重大科学问题、工程技术难题</a></li>
+	   <li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202605/t20260518_2735433.shtml"  style="letter-spacing:-1px;">"双一流"建设十年：世界高教格局变迁</a></li>
+	  		 <li><a href="https://www.edu.cn/rd/gai_kuang/kyxm/202607/t20260714_2755845.shtml">国自然大幅增加青年科学基金项目</a></li>
+
+  </ul>
+  
+  
+  
+  
+  
+  
+  
+  
+	<ul class="undis">
+	<li><a href="https://www.edu.cn/info/xy/xytp/202605/t20260528_2738386.shtml">智能体浪潮来袭，高校如何"智理"</a></li>
+	
+	<li><a href="https://www.edu.cn/info/focus/li_lun_yj/202606/t20260602_2739816.shtml">如何构建可控、可信的智能体环境</a></li>
+		<li><a href="https://www.edu.cn/info/xy/xytp/202606/t20260615_2745188.shtml" >建设开放、成长的高校智能体生态</a></li> 
+		 <li><a href="https://www.edu.cn/info/focus/li_lun_yj/202605/t20260528_2738387.shtml">高校智能体安全治理的短板与挑战</a></li>	
+   <li><a href="https://www.edu.cn/info/ji_shu_ju_le_bu/rgzn/202606/t20260603_2740592.shtml">高校智能体安全实战指南</a></li>
+ 
+	 
+
+ 		<li><a href="https://www.edu.cn/info/xy/xytp/202606/t20260604_2740984.shtml" >高校如何安全使用OpenClaw？</a></li>
+		  <li><a href="https://www.edu.cn/info/xy/xytp/202606/t20260617_2746057.shtml">高校如何打造好用的教育智能体?</a></li>
+     					
+<li><a href="https://www.edu.cn/info/focus/li_lun_yj/202607/t20260709_2754267.shtml"  style="letter-spacing:-1px;">CourseClaw 一种课程智能体蚁群图景</a></li>
+   
+  <li><a href="https://www.edu.cn/info/xy/xytp/202605/t20260528_2738390.shtml" >高校图书馆OpenClaw部署实践</a></li> 
+     					
+
+
+
+
+    <p class="blank_xx"></p>
+	
+ <li><a href="https://www.edu.cn/info/zt/szdh/202605/t20260514_2734529.shtml"   style="letter-spacing:-1px;">2026世界数字教育大会发布8项成果</a></li>
+<li><a href="https://www.edu.cn/info/focus/xs_hui_yi/202607/t20260703_2752184.shtml">AI如何服务高校师生真实需求？</a></li>
+	<li><a href="https://www.edu.cn/info/focus/li_lun_yj/202606/t20260601_2739458.shtml">AI巡课：数据好看就是教学有效？</a></li>		
+	      <li><a href="https://www.edu.cn/info/xy/xytp/202605/t20260528_2738404.shtml">人工智能驱动高校人才招聘</a></li> 	
+          <li><a href="https://www.edu.cn/info/xy/xytp/202607/t20260706_2752680.shtml">数据驱动高校办实事、解难题</a></li>  		
+<li><a href="https://www.edu.cn/info/focus/xs_hui_yi/202606/t20260629_2750456.shtml">数字基座怎么建？来看专家分享</a></li>	
+	 <li><a href="https://www.edu.cn/info/focus/xs_hui_yi/202607/t20260706_2752688.shtml" >高校如何面对网络安全新课题？</a></li>
+                <li><a href="https://www.edu.cn/info/focus/zctp/202606/t20260617_2746208.shtml"   style="letter-spacing:-1px;">EDUCAUSE丨重构高校网络安全生态</a></li>
+<li><a href="https://www.edu.cn/info/xy/xytp/202604/t20260429_2731782.shtml">高校信息化项目全周期管理策略</a></li>
+
+   
+
+    
+       
+    <p class="blank_xx"></p>
+	
+	 
+	 
+	 
+    <li><a href="https://www.edu.cn/rd/zui_jin_geng_xin/202606/t20260625_2748914.shtml">中国超算重回世界之巅</a></li>    
+<li><a href="https://www.edu.cn/rd/zui_jin_geng_xin/202606/t20260603_2740600.shtml">我国成功跻身全球创新型国家前列</a></li>
+	<li><a href="https://www.edu.cn/rd/re_dian_tui_jian/index_11.shtml" >新增38种本科专业！教育部发布</a></li>   	
+ <li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202604/t20260409_2727082.shtml">教育部实施高校专利转化攻坚行动</a></li> 
+    <li><a href="https://www.edu.cn/rd/zui_jin_geng_xin/202606/t20260605_2741189.shtml"  style="letter-spacing:-1px;">中央企业科技成果产业化联合体成立</a></li>
+	 <li><a href="https://www.edu.cn/rd/gao_xiao_cheng_guo/gao_xiao_zi_xun/202604/t20260430_2731903.shtml">在雄安，描绘高校发展新图景</a></li>
+	  <li><a href="https://www.edu.cn/rd/zui_jin_geng_xin/202604/t20260417_2728914.shtml">大湾区如何让科技成果“转”起来</a></li>
+    <li><a href="https://www.edu.cn/rd/expert/202606/t20260603_2740596.shtml">施一公：人工智能时代，教育何为</a></li>
+   
+    <li><a href="https://www.edu.cn/rd/zui_jin_geng_xin/202606/t20260612_2744317.shtml" >江苏探索科技成果高效转化新途径</a></li>
+  </ul>
+</div>
+		
+			</div>
+		</div>
+		<p class="blank10"></p>
+		
+		
+		<p class="blank5"></p>
+<div class="e_edu_bottom">
+  <p>版权所有：<a href="/" class="black_12">中国教育和科研计算机网网络中心</a>　<script>
+
+var d = new Date()
+
+document.write("Copyright ©1994-"+d.getFullYear()+"")
+
+</script>　<a href="http://www.nic.edu.cn/" class="black_12">CERNIC</a>,<a href="/cernet_fu_wu/" class="black_12">CERNET</a></p>
+<p><a href="http://beian.miit.gov.cn/publish/query/indexFirst.action" target="_blank" rel="noreferrer">京ICP备15006448号-16</a>　<a href="/images/indexnew/www1024.jpg">京网文[2017]10376-1180号</a>　<a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040202430174"><img src="/c_images/xxh/2023logo.jpg">京公网安备 11040202430174号</a ></p>
+  
+</div>
+
+		
+		
+		<div style="height:1px;overflow:hidden;">		
+        <!-- ecounter 访问统计v1.0-->
+       <!-- End ecounter Tag -->
+        <!-- S baidu 统计-->   
+	   <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1a4792aa43d64071700737a7a9457f71";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+        <!--E baidu 统计-->  
+		</div>
+     
+     
+     
+     
+     <!-- ecounter -->
+
+ <script type="text/javascript" src="https://www.eol.cn/js/common/plugin/utf-8/weixin.share.min.js" charset="UTF-8"></script>
+<script type="text/javascript">
+    var desc = '';
+    var paras = document.getElementsByTagName("meta");
+    for (var i = 0; i < paras.length; i++) {
+        var name = paras[i].getAttribute("name");
+        if (name == 'description' || name == 'Description' ) {
+            desc = paras[i].getAttribute("content");
+        }
+    }
+    new weixinShare({
+        'title': '',
+        'link': this.location + '',
+        'image': 'https://www.edu.cn/c_images/public/fxlogo.jpg',
+        'desc': desc,
+        'show': 1, //提示信息  0 全部不显示  1显示成功 2 显示失败 3 全部显示
+    });
+</script>
+
+		<!--
+<iframe src="http://v6.net.edu.cn/cgi-bin/nph-v6" seamless width="3" height="3" frameborder="0" name="v6" scrolling="no" > </iframe>
+<iframe src="http://v4.net.edu.cn/cgi-bin/nph-v4"  seamless width="3" height="3" frameborder="0" name="v4" scrolling="no" > </iframe>
+<iframe src="http://ds.net.edu.cn/cgi-bin/nph-ds" seamless width="3" height="3" frameborder="0" name="ds" scrolling="no" > </iframe>
+-->
+
+<SCRIPT>
+//var adini=false;
+function hidediv(id)
+{
+	document.getElementById(id).style.display = 'none';
+
+}
+function showhide1(o,p) {
+	var o1 = document.getElementById(o+'1');
+	var o2 = document.getElementById(o+'2');
+	if(o1 && o2){
+		 o1.style.display=(p=='h')?'none':'block';
+		 o2.style.display=(p=='h')?'block':'none';
+	}
+}
+window.onload=function() {
+	window.setTimeout("showhide1('float_r','h');showhide1('float_l','h')",10000);
+}
+</SCRIPT>
+
+
+		<script type="text/javascript">
+			$('.new-change a').on('mouseenter', function() {
+
+				$('.new-change a').removeClass('current');
+				$(this).addClass('current');
+
+				$('.new-change-ul').hide();
+				$('.new-change-ul').eq($(this).index()).show();
+
+			});
+			$('#newri_tit a').mouseover(function() {
+				$('#newri_tit a').removeClass('current');
+				$(this).addClass('current');
+
+				$("#newri_con ul").hide();
+				$("#newri_con ul").eq($(this).index()).show();
+			})
+		</script>
+
+	</body>
+
+</html>
