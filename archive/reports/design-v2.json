@@ -228,7 +228,7 @@
     "content\\posts\\fc4f79bafe19aa9a.md",
     "content\\posts\\ffd23bc713f01d9c.md"
   ],
-  "final_direction": "Scientific, precise and restrained. Cool gray-blue graph-paper grain, shared alignment, uniform sans-serif typography. Images unchanged; original science-photo art and mountain art retained.",
+  "final_direction": "Logo-led warm white, charcoal and red. Scientific clarity from typography/grid/alignment, not blue color.",
   "science_art": "static/images/science-in-conversation.png",
   "science_art_source": "static/wp-content/uploads/2016/09/viewfile.png",
   "science_art_source_article": "https://www.sinotech.ch/archives/4953.html",
@@ -236,11 +236,13 @@
   "background_texture": "Continuous SVG fractal fiber grain on warm ivory paper",
   "final_structure": "Navigation, science hero, one-column date/title/thumbnail journal, footer. Mountain art on About page only.",
   "typography_and_grid": "Shared 1120px alignment; 51px two-line hero; 26px section titles; article rows use date/title/image columns; responsive two-column mobile rows.",
-  "final_mood": "Scientific, precise and restrained. Cool gray-blue graph-paper grain, shared alignment, uniform sans-serif typography. Images unchanged; original science-photo art and mountain art retained.",
+  "final_mood": "Logo-led warm white, charcoal and red. Scientific clarity from typography/grid/alignment, not blue color.",
   "rejected_directions": [
     "Warm literary serif/paper theme felt insufficiently scientific",
     "Numbered discovery panels, cards and multiple homepage sections felt scattered",
-    "Mountain illustration retained but moved away from science homepage hero"
+    "Mountain illustration retained but moved away from science homepage hero",
+    "Cold blue scientific palette contradicted the original logo; user explicitly rejected it."
   ],
-  "visual_approval": "Not established; current iteration rendered and checked, awaiting any further user feedback"
+  "visual_approval": "Not established; current iteration rendered and checked, awaiting any further user feedback",
+  "palette_correction": "User rejected cold palette because it conflicts with the original red/black logo. Corrected to warm white paper, charcoal text and logo red; scientific character comes from sans-serif typography, coordinate grid and strict alignment. Science illustration displayed in monochrome; source image bytes unchanged."
 }
