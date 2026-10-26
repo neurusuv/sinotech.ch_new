@@ -1,0 +1,8 @@
+{
+  "home": "A scientific exchange journal cover, four curated academic scenes, one archive entrance",
+  "archive": "39 pages, 12 articles per page, two-column abstract layout without thumbnails",
+  "source_posts": 466,
+  "display_titles": "Editorial navigation labels, original titles and source body remain unchanged",
+  "positive_user_direction": "Red/black printed-science headline; scholarly atmosphere inspired by scientific paper layout",
+  "emails": "Public Cloudflare email addresses decoded statically; no script dependency"
+}

@@ -8,9 +8,11 @@
   ],
   "featured": "/wp-content/uploads/2018/05/8fc4c5ecjw1dlc2aa15lxj.jpg",
   "description": "由瑞士中国学人科技协会主办，Aargau-PSI学联协办，全瑞各地学联共同参与的2011年新春晚会暨卡拉OK大奖赛于2月27日下午在著名的温泉城市Baden隆重举行。 中国驻苏黎世总领馆梁建全总领事，中国驻瑞士大使馆教育处一秘苏远老师，瑞士中国学人科技协会前任主席王绍宁先生，Swissinfo主编邵大海先生等,以及在瑞士工作学习的学生学者和外国友人共400余",
-  "type": "posts"
+  "type": "posts",
+  "teaser": "由瑞士中国学人科技协会主办，Aargau-PSI学联协办，全瑞各地学联共同参与的2011年新春晚会暨卡拉OK大奖赛于2月27日下午在著名的温泉城市Baden隆重举行。",
+  "teaser_kind": "source_excerpt",
+  "display_title": "瑞士中国学人欢唱共庆2011兔年春节"
 }
-
 
 <p>由瑞士中国学人科技协会主办，Aargau-PSI学联协办，全瑞各地学联共同参与的2011年新春晚会暨卡拉OK大奖赛于2月27日下午在著名的温泉城市Baden隆重举行。<br/>
 <br/>

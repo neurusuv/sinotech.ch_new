@@ -8,7 +8,10 @@
   ],
   "featured": "",
   "description": "科协2011年春节晚会最新更改 (科协2011-02-01) 科协原定于2011年2月20日与PSI-AARGAU学联联合举办2011迎新春晚会, 因为会议场地租借等原因, 日期更改为 2011年2月27日下午。 地址: Berusfachschule Baden, BBB Martinsberg , Wiesenstrasse 32, 5400 Baden",
-  "type": "posts"
+  "type": "posts",
+  "teaser": "科协2011年春节晚会最新更改 (科协2011-02-01) 科协原定于2011年2月20日与PSI-AARGAU学联联合举办2011迎新春晚会, 因为会议场地租借等原因, 日期更改为 2011年2月27日下午。",
+  "teaser_kind": "source_excerpt",
+  "display_title": "科协2011年春节晚会最新更改"
 }
 
 <p>科协2011年春节晚会最新更改<br/>

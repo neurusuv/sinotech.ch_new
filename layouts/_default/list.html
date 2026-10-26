@@ -1,1 +1,1 @@
-{{ define "main" }}<section class="journal"><header class="section-head"><h1>{{ .Title }}</h1></header><div class="stories">{{ range .Pages.ByDate.Reverse }}{{ partial "card.html" . }}{{ end }}</div></section>{{ end }}
+{{ define "main" }}<section class="academic-section archive-page page-width"><header class="journal-heading"><h1>{{ .Title }}</h1></header><div class="academic-grid">{{ range .Pages.ByDate.Reverse }}{{ partial "card.html" . }}{{ end }}</div></section>{{ end }}

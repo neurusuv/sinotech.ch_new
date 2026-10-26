@@ -8,15 +8,18 @@
   ],
   "featured": "/wp-content/uploads/2013/09/2013.jpg",
   "description": "亲爱的旅瑞学人朋友们， 瑞士中国学人科技协会2013年年会将于9月29日于伯尔尼举行，届时，中国驻瑞士大使馆许镜湖大使，国际电信联盟(ITU)赵厚麟副秘书长，瑞士国家科学基金会(SNSF)Jean-Luc Barras博士，瑞士联邦教育科技创新署(SERI)都将光临我们的年会致辞并与大家交流。具体会议议程请看附件海报，欢迎大家到场参加。 请有兴趣参加本次活动",
-  "type": "posts"
+  "type": "posts",
+  "teaser": "请有兴趣参加本次活动的会员通过以下网址报名,报名截止日期: 2013年9月24日。",
+  "teaser_kind": "source_excerpt",
+  "display_title": "瑞士中国学人科技协会2013年年会通知"
 }
 
 <p>亲爱的旅瑞学人朋友们，<br/>
 瑞士中国学人科技协会2013年年会将于9月29日于伯尔尼举行，届时，中国驻瑞士大使馆许镜湖大使，国际电信联盟(ITU)赵厚麟副秘书长，瑞士国家科学基金会(SNSF)Jean-Luc Barras博士，瑞士联邦教育科技创新署(SERI)都将光临我们的年会致辞并与大家交流。具体会议议程请看附件海报，欢迎大家到场参加。<br/>
 请有兴趣参加本次活动的会员通过以下网址报名,报名截止日期: 2013年9月24日。科协将对科协与会学生会员提供路费补贴。<br/>
 <a href="https://docs.google.com/spreadsheet/viewform?formkey=dGtKeXFpS053TmQwenJjbUVWTmV5QlE6MA">https://docs.google.com/spreadsheet/viewform?formkey=dGtKeXFpS053TmQwenJjbUVWTmV5QlE6MA#gid=0</a><br/>
-同时，本年度年会将进行科协执委改选，凡有意参加下届科协执委竞选的，请备好参选简历一份并于参会注册截止日前发送到: <a class="__cf_email__" data-cfemail="553e302d3c3015263c3b3a2130363d7b363d" href="https://www.sinotech.ch/cdn-cgi/l/email-protection">[email protected]</a><br/>
-科协会员注册，请访问<a href="https://www.sinotech.ch/jia-ru-ke-xie">http://www.sinotech.ch/jia-ru-ke-xie</a>，关于年会事宜如有其他疑问，也请和<a class="__cf_email__" data-cfemail="f59e908d9c90b5869c9b9a8190969ddb969d" href="https://www.sinotech.ch/cdn-cgi/l/email-protection">[email protected]</a>联系。<br/>
+同时，本年度年会将进行科协执委改选，凡有意参加下届科协执委竞选的，请备好参选简历一份并于参会注册截止日前发送到: <a href="mailto:kexie@sinotech.ch">kexie@sinotech.ch</a><br/>
+科协会员注册，请访问<a href="https://www.sinotech.ch/jia-ru-ke-xie">http://www.sinotech.ch/jia-ru-ke-xie</a>，关于年会事宜如有其他疑问，也请和<a href="mailto:kexie@sinotech.ch">kexie@sinotech.ch</a>联系。<br/>
 祝好，<br/>
 瑞士中国学人科技协会<br/>
 时间: 29th September , 2013 (Sunday), 9:30 – 16：00<br/>

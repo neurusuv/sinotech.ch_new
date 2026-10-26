@@ -241,8 +241,19 @@
     "Warm literary serif/paper theme felt insufficiently scientific",
     "Numbered discovery panels, cards and multiple homepage sections felt scattered",
     "Mountain illustration retained but moved away from science homepage hero",
-    "Cold blue scientific palette contradicted the original logo; user explicitly rejected it."
+    "Cold blue scientific palette contradicted the original logo; user explicitly rejected it.",
+    "Repeated localized CSS adjustments did not establish a coherent design; user required a complete rebuild including image edges, type sizing and summary selection."
   ],
   "visual_approval": "Not established; current iteration rendered and checked, awaiting any further user feedback",
-  "palette_correction": "User rejected cold palette because it conflicts with the original red/black logo. Corrected to warm white paper, charcoal text and logo red; scientific character comes from sans-serif typography, coordinate grid and strict alignment. Science illustration displayed in monochrome; source image bytes unchanged."
+  "palette_correction": "User rejected cold palette because it conflicts with the original red/black logo. Corrected to warm white paper, charcoal text and logo red; scientific character comes from sans-serif typography, coordinate grid and strict alignment. Science illustration displayed in monochrome; source image bytes unchanged.",
+  "whole_rebuild": "Replaced all frontend templates and the complete stylesheet. One logo-led editorial system: red/black/white, precise image windows without feathered edges, 8px-based rhythm, explicit type hierarchy and a simple header/hero/journal/footer structure.",
+  "summary_policy": "First 18 homepage stories individually rewritten from original text; remaining stories use complete information sentences extracted from source, skipping greetings, credits and contacts. No arbitrary truncated body prefixes.",
+  "shared_component_system": {
+    "navigation": "科协首页 / 关于科协 / 组织机构 / 科研机构 / 联系科协, all four Chinese characters",
+    "article_list": "One compact image-and-text unit. Title, date/category and selected summary share a common column. No isolated date rail or distant thumbnail.",
+    "imagery": "One neutral 1px border for hero, thumbnails and reading images; logo remains unframed. Straight image windows, no feather masks.",
+    "spacing": "4px rhythm with 16/20/24/28/32px spacing, component density checked together across screen sizes",
+    "type": "Display/heading/body/meta hierarchy; 19px list titles, 13px desktop summaries, 11px metadata. Mobile title16/summary12/meta10.",
+    "color": "Red/black/warm white following the original logo, readable secondary text"
+  }
 }

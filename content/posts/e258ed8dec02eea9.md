@@ -8,10 +8,11 @@
   ],
   "featured": "/wp-content/uploads/2018/05/8fc4c5ecjw1dlc2aa15lxj.jpg",
   "description": "—–记第五届春晖杯中国归国留学人员创新创业大赛 于瑛川 苏黎世瑞士联邦工学院，生物与化学工程系博士研究生 梦想就是活着的理由，不知从何时起，这句话深深地印在了我的脑海里。然而，实现梦想的路途是艰辛的，不管梦想有多高有多大，它就像北极星一样，为人们的生活指明方向。也许在小时候财富类的名人传记看得多了一些，从小便想做一个实业家，想拥有自己的公司，拥有自己的团队来",
-  "type": "posts"
+  "type": "posts",
+  "teaser": "梦想就是活着的理由，不知从何时起，这句话深深地印在了我的脑海里。",
+  "teaser_kind": "source_excerpt",
+  "display_title": "梦想就是活着的理由"
 }
-
-
 
 <p style="text-align:center">—–记第五届春晖杯中国归国留学人员创新创业大赛</p>
 <p style="text-align:center">于瑛川</p>

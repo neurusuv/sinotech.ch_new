@@ -26,7 +26,8 @@ for url in crawl['visited']:
     meta={'title':soup.title.get_text().rsplit(' – ',1)[0],'url':path,'source':url,'type':'listings','items':links}
     (ROOT/'content/listings'/(hashlib.sha256(path.encode()).hexdigest()[:16]+'.md')).write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 (ROOT/'layouts/listings').mkdir(exist_ok=True)
-(ROOT/'layouts/listings/single.html').write_text('''{{ define "main" }}<section class="journal"><div class="section-head"><h1>{{ .Title }}</h1></div><div class="stories">{{ range .Params.items }}{{ $source := . }}{{ range where site.RegularPages "Params.source" $source }}{{ partial "card.html" . }}{{ end }}{{ end }}</div><div class="pagination"><a href="/">浏览全部文章 →</a></div></section>{{ end }}''',encoding='utf-8')
+# Keep the hand-designed archive template unchanged.
+
 subprocess.run(['hugo','--minify','--printPathWarnings','--cleanDestinationDir'],cwd=ROOT,check=True)
 public=ROOT/'public';broken=[];remote=[];imagecount=0;htmlcount=0
 def exists(path):

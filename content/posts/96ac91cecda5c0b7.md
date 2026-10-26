@@ -8,7 +8,10 @@
   ],
   "featured": "",
   "description": "时间: 2012年8月25日，周六 14:00 – 17:00 地点: Haus der Kulturen, Erismannstr. 6, 8004 Zürich 语言: 汉语/英语 报名：http://bit.ly/MbfxYe 演讲人萧宏慈先生简介: 萧宏慈，湖北人，作家，自愈健康管理专家，教育医学创始人之一。畅销 书《医行天下》 、《拉筋拍打治百病》",
-  "type": "posts"
+  "type": "posts",
+  "teaser": "演讲内容提纲： 拍打拉筋作为一种民间自我保健疗法，与针灸刮痧、推拿按摩、太极瑜伽相比，具有“更中医、更东方、更自然”的三大优势。",
+  "teaser_kind": "source_excerpt",
+  "display_title": "萧宏慈拍打拉筋自愈法讲座"
 }
 
 <p>时间: 2012年8月25日，周六 14:00 – 17:00<br/>

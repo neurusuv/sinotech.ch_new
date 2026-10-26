@@ -8,7 +8,10 @@
   ],
   "featured": "",
   "description": "瑞士中国学人生命科学协会2013年会暨执委改选定于今年5月11到12日周末在旅游胜地Rigi举行。本年度我们为您准备了三 场精彩的特别演讲及丰富多彩的会后活动： A : Prof. Michael Hengartner , 苏黎世大学，数学与自然科学学 院主任，苏黎世大学校长候选人 报告：Building a bilateral driving force ",
-  "type": "posts"
+  "type": "posts",
+  "teaser": "瑞士中国学人生命科学协会2013年会暨执委改选定于今年5月11到12日周末在旅游胜地Rigi举行。",
+  "teaser_kind": "source_excerpt",
+  "display_title": "瑞士中国学人生命科学协会2013年会"
 }
 
 <p><span style="font-size:large">瑞士中国学人生命科学协会2013年会暨执委改选定于今年5月11到12日周末在旅游胜地Rigi举行。本年度我们为您准备了三 场精彩的特别演讲及丰富多彩的会后活动：</span><br/>

@@ -8,7 +8,10 @@
   ],
   "featured": "",
   "description": "[youtube http://www.youtube.com/watch?v=ZxWS8UF7HnQ&w=420&h=315]",
-  "type": "posts"
+  "type": "posts",
+  "teaser": "[youtube http://www.youtube.com/watch?v=ZxWS8UF7HnQ&w=420&h=315]",
+  "teaser_kind": "source_excerpt",
+  "display_title": "瑞士中国学人科技协会衷心祝福祖国向祖国拜年"
 }
 
 <p>[youtube http://www.youtube.com/watch?v=ZxWS8UF7HnQ&amp;w=420&amp;h=315]</p>

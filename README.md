@@ -27,9 +27,13 @@
 
 构建校验：767 个 HTML 文件，本地引用缺失0，外部嵌入资源0；搜索索引520条。浏览器实测“春晖杯”返回69条。
 
-重新采集：先用 pip 将 beautifulsoup4 安装到 `.deps`，依次执行 `scripts/crawl.py`、`scripts/repair.py`、`scripts/finalize.py`。已有下载缓存会复用。
+重新采集：先用 pip 将 beautifulsoup4 安装到 `.deps`，依次执行 `scripts/crawl.py`、`scripts/repair.py`、`scripts/apply-summaries.py`、`scripts/finalize.py`。已有下载缓存会复用。
 原文 HTML 可用于回溯；`failures.json` 保留最初失败记录，`unresolved.json` 记录恢复尝试后仍不可访问的地址。
 
 ## 当前设计
 
 首页只保留导航、科研主视觉、单列文章列表和页脚。全站统一暖白底、黑色文字、Logo红，以及坐标网格与细密纹理、无衬线字体、对齐线、字号和留白。主视觉来自原站Empa开放日照片的艺术化转绘；山水主题插画保留在协会简介页。生成图不替代历史文章原图。243篇只有列表封面的文章已在正文前补显示封面。
+
+## 整体重做版
+
+全部前端模板和样式已重写：红黑暖白、直边图片构图、统一字阶和版面尺度。首页只保留介绍主视觉和文章列表。正文原文不变，首页18篇摘要逐篇根据原文重写，其余按完整信息句提取；无有效信息句的文章不强塞摘要。完整审计在archive/reports/teasers.json。

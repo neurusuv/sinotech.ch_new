@@ -8,7 +8,10 @@
   ],
   "featured": "",
   "description": "上海市人民政府侨务办公室、江苏省人民政府侨务办公室、浙江省人民政府侨务办公室定于2012年9月22日至9月28日联合主办2012“相聚长三角”活动，即日起开始接受报名。 本次活动旨在加强与海外华侨华人专家和高层次人才的联系与交流，宣传推介“长三角”地区创新创业发展环境和政策，发挥海外华侨华人资源优势，围绕苏、浙、沪“十二五”发展规划，促进“长三角”地区转变经",
-  "type": "posts"
+  "type": "posts",
+  "teaser": "上海市人民政府侨务办公室、江苏省人民政府侨务办公室、浙江省人民政府侨务办公室定于2012年9月22日至9月28日联合主办2012“相聚长三角”活动，即日起开始接受报名。",
+  "teaser_kind": "source_excerpt",
+  "display_title": "2012“相聚长三角”活动报名通知"
 }
 
 <p>上海市人民政府侨务办公室、江苏省人民政府侨务办公室、浙江省人民政府侨务办公室定于2012年9月22日至9月28日联合主办2012“相聚长三角”活动，即日起开始接受报名。<br/>
@@ -45,13 +48,13 @@
 五、联系方式<br/>
 上海主会场：上海侨办经济科技处 汤凌 杨雪<br/>
 电话：86-21-62491712 传真：62493557<br/>
-报名邮箱：<a class="__cf_email__" data-cfemail="d9b3b2ba99b6afbcabaabcb8aaf7aab1f7bab7" href="https://www.sinotech.ch/cdn-cgi/l/email-protection">[email protected]</a><br/>
+报名邮箱：<a href="mailto:jkc@overseas.sh.cn">jkc@overseas.sh.cn</a><br/>
 江苏分会场：江苏侨办经济科技处 胡虹 陈锋<br/>
 电话：86- 25-89638821 ；传真：89638850<br/>
-报名邮箱：<a class="__cf_email__" data-cfemail="69031a180b3603020a29585b5f470a0604" href="https://www.sinotech.ch/cdn-cgi/l/email-protection">[email protected]</a><br/>
+报名邮箱：<a href="mailto:jsqb_jkc@126.com">jsqb_jkc@126.com</a><br/>
 浙江分会场：浙江侨办经济科技处 王少雷 魏玉枝<br/>
 电话：86-571-87059633，87059651　　传真：87059653<br/>
-报名邮箱：<a class="__cf_email__" data-cfemail="8af0e0fbe8b8bbbabbcaf3ebe2e5e5a4e9e4" href="https://www.sinotech.ch/cdn-cgi/l/email-protection">[email protected]</a><br/>
+报名邮箱：<a href="mailto:zjqb2101@yahoo.cn">zjqb2101@yahoo.cn</a><br/>
 上海市人民政府侨务办公室<br/>
 江苏省人民政府侨务办公室<br/>
 浙江省人民政府侨务办公室<br/>

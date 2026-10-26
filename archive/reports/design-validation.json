@@ -5,10 +5,12 @@
   "original_body_text_mismatches": [],
   "homepage_main_sections": [
     [
-      "science-hero"
+      "cover",
+      "page-width"
     ],
     [
-      "journal"
+      "journal",
+      "page-width"
     ]
   ],
   "mountain_art_on_homepage": false,
@@ -20,5 +22,5 @@
     "Article /archives/103.html shows cover",
     "About page retains mountain art"
   ],
-  "mobile": "Responsive CSS checked; not visually inspected in a mobile viewport"
+  "mobile": "390px and 720px iframe viewport visual inspection passed; not physical-device testing"
 }
