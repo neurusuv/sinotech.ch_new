@@ -30,7 +30,7 @@ jobs:
       - name: Build website
         env:
           TZ: Europe/Zurich
-        run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        run: hugo --minify --baseURL "https://www.sinotech.ch/"
       - name: Upload website
         uses: actions/upload-pages-artifact@v4
         with:
