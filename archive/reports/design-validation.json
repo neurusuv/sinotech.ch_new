@@ -1,0 +1,24 @@
+{
+  "body_cover_count": 243,
+  "featured_images_missing_in_article": [],
+  "placeholder_pages": [],
+  "original_body_text_mismatches": [],
+  "homepage_main_sections": [
+    [
+      "science-hero"
+    ],
+    [
+      "journal"
+    ]
+  ],
+  "mountain_art_on_homepage": false,
+  "mountain_art_on_about": true,
+  "science_art_on_home": true,
+  "background_texture": "32px coordinate grid and continuous grain",
+  "browser_checks": [
+    "Homepage desktop screenshot",
+    "Article /archives/103.html shows cover",
+    "About page retains mountain art"
+  ],
+  "mobile": "Responsive CSS checked; not visually inspected in a mobile viewport"
+}

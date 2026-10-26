@@ -74,15 +74,15 @@ for record in records:
    if local(url):tag['src']=local(url);src=tag['src']
    if src.startswith(('http:','https:','//')):
     missingimgs.append({'page':record['url'],'image':url,'alt':tag.get('alt','')})
-    notice=body.new_tag('span',attrs={'class':'missing-image'});notice.string='[原站图片暂不可用'+('：'+tag['alt'] if tag.get('alt') else '')+']';tag.replace_with(notice)
+    tag.decompose()
  f.write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n\n'+str(body),encoding='utf-8')
 # Preserve the four title-only source sections without inventing their content.
 known={r['url'] for r in records}
 for path in ['/women/','/cafps/','/youth/','/camsts/']:
  if path in known:continue
  url='https://www.sinotech.ch'+path;raw='archive/html/'+hashlib.sha256(url.encode()).hexdigest()[:20]+'.html';s=BeautifulSoup((ROOT/raw).read_bytes(),'html.parser');h=s.select_one('h1');title=h.get_text(' ',strip=True) if h else s.title.get_text().split(' – ')[0]
- meta={'title':title,'url':path,'source':url,'type':'pages','description':'原站此栏目仅有标题，未提供正文。','date':'2000-01-01T00:00:00+00:00'};file='content/pages/'+hashlib.sha256(url.encode()).hexdigest()[:16]+'.md'
- (ROOT/file).write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n\n原站此栏目仅有标题，未提供正文。\n',encoding='utf-8');records.append({**meta,'file':file,'raw':raw})
+ meta={'title':title,'url':path,'source':url,'type':'pages','description':'','date':'2000-01-01T00:00:00+00:00'};file='content/pages/'+hashlib.sha256(url.encode()).hexdigest()[:16]+'.md'
+ (ROOT/file).write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n\n\n',encoding='utf-8');records.append({**meta,'file':file,'raw':raw})
 known_sources={r['source'] for r in records}
 for url in json.loads((R/'crawl.json').read_text(encoding='utf-8'))['visited']:
  if url in known_sources or not re.fullmatch(r'https://www.sinotech.ch/archives/\d+\.html',url):continue
@@ -90,8 +90,8 @@ for url in json.loads((R/'crawl.json').read_text(encoding='utf-8'))['visited']:
  if not (ROOT/raw).exists():continue
  s=BeautifulSoup((ROOT/raw).read_bytes(),'html.parser');h=s.select_one('h1');t=s.select_one('time[datetime]')
  if not h:continue
- meta={'title':h.get_text(' ',strip=True),'date':t.get('datetime') if t else '2000-01-01T00:00:00+00:00','url':urllib.parse.urlsplit(url).path,'source':url,'type':'posts','categories':cardmeta.get(url,{}).get('categories',[]),'description':'原站本篇仅有标题，未提供正文。'}
- file='content/posts/'+hashlib.sha256(url.encode()).hexdigest()[:16]+'.md';(ROOT/file).write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n\n原站本篇仅有标题，未提供正文。\n',encoding='utf-8');records.append({**meta,'file':file,'raw':raw})
+ meta={'title':h.get_text(' ',strip=True),'date':t.get('datetime') if t else '2000-01-01T00:00:00+00:00','url':urllib.parse.urlsplit(url).path,'source':url,'type':'posts','categories':cardmeta.get(url,{}).get('categories',[]),'description':''}
+ file='content/posts/'+hashlib.sha256(url.encode()).hexdigest()[:16]+'.md';(ROOT/file).write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n\n\n',encoding='utf-8');records.append({**meta,'file':file,'raw':raw})
 for name,obj in [('pages',records),('assets',assets),('recoveries',recoveries),('missing-images',missingimgs),('unresolved', [x for x in fails if not local(x['url'])])]:
  (R/(name+'.json')).write_text(json.dumps(obj,ensure_ascii=False,indent=2),encoding='utf-8')
 print('METADATA',len(cardmeta),'MISSING IMAGE REFERENCES',len(missingimgs),'COMMENT PAGES',comments,flush=True)

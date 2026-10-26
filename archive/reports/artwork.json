@@ -1,0 +1,16 @@
+[
+  {
+    "file": "static/images/science-in-conversation.png",
+    "bytes": 3200092,
+    "sha256": "3d470e33eb9aa5d8beb31f93c3ac170be20ecc239c9af60cecbf416c6a5dfb25",
+    "provenance": "Original /wp-content/uploads/2016/09/viewfile.png from /archives/4953.html; artistic cyanotype interpretation",
+    "type": "AI artwork, not a documentary source"
+  },
+  {
+    "file": "static/images/science-between-mountains.png",
+    "bytes": 3469932,
+    "sha256": "bc3ccff39cd4b9954dc090a2b59764473915c2d62db0955e4f0e91a31242417d",
+    "provenance": "New conceptual Swiss-Chinese science/cultural exchange illustration; retained on About page",
+    "type": "AI artwork, not a documentary source"
+  }
+]

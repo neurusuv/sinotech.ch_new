@@ -11,15 +11,16 @@
   "type": "posts"
 }
 
+
 <p>为了慰问广大海外侨胞，同时向世界各国人民展示中华优秀文化艺术的魅力，2008年，中国侨联启动了“亲情中华”主题活动。4年来，中国侨联系统通过与国内专业文艺院团、文化机构合作，先后组织了70余个“亲情中华”慰问艺术团，赴世界40余个国家和地区进行了近400场演出。所到之处，得到海外侨胞和当地民众的广泛赞誉。<br/>
 2012年新年到来之际, 中国侨联应苏黎世总领馆和当地侨胞邀请，抽调全总文工团、辽宁省歌剧院、北京市河北梆子剧团、北京杂技团、内蒙古巴彦淖尔市民族歌剧舞剧院优秀演员，组成了不仅包括女高音歌唱家郑咏、男高音歌唱家陈福来、口技表演艺术家成加强、变脸表演艺术家孙志泉等海内外著名艺术家，而且还有近年国内脱颖而出的沙日娜、刘海等后起之秀在内的“亲情中华”艺术团，并由中国戏曲学院附属中等戏曲学校配合演出舞蹈节目。“亲情中华”艺术团将于2012年1月4日在苏黎世举办”亲情中华”迎新春文艺演出。<br/>
 Add: Pfarreizentrum,Kirchstrasse 2, 8700 Küsnacht.<br/>
 Time: 2012年1月4日 19:00 欢迎大家光临! 票价(10CHF/人), 票数有限,定票从速!<br/>
 <a href="https://www.sinotech.ch/go/zurich20110104">*定票注册地址(必填)</a><br/>
 <a href="https://docs.google.com/spreadsheet/viewform?formkey=dEVzZHJEdjNlckNNdHU0R1lKYmtkLUE6MQ">http://www.sinotech.ch/go/zurich20110104</a><br/>
-<span class="missing-image">[原站图片暂不可用]</span><br/>
+<br/>
  <br/>
 <a href="https://www.sinotech.ch/wp-content/uploads/2011/11/节目单_new.doc_.pdf">节目单_new.doc_</a><br/>
 <a href="https://www.sinotech.ch/wp-content/uploads/2011/11/艺术团简介（苏黎世）.doc_.pdf">艺术团简介（苏黎世）.doc_</a><br/>
-<a href="https://www.sinotech.ch/wp-content/uploads/2011/11/瑞士德国比利时团节目单c.jpg"><span class="missing-image">[原站图片暂不可用]</span></a><br/>
-<a href="https://www.sinotech.ch/wp-content/uploads/2011/11/瑞士德国比利时团节目单c2.jpg"><span class="missing-image">[原站图片暂不可用]</span></a></p>
+<br/>
+</p>
