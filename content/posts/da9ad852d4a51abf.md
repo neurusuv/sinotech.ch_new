@@ -14,6 +14,7 @@
   "display_title": "免费公益讲座/Seminar  如何在瑞士创业？"
 }
 
+
 <h2>免费公益讲座/Seminar</h2>
 <h2>如何在瑞士创业？ How to start your own business in Switzerland?</h2>
 <table border="0" cellpadding="0" cellspacing="0">
@@ -56,5 +57,5 @@ Gründler &amp; Partner Rechtsanwälte</li>
 <div>
 <br/>
 <a href="http://sinotech.us5.list-manage.com/track/click?u=34ed77c4e1b428d2373240464&amp;id=df91b27c6d&amp;e=c1957fd345" rel="noopener" target="_blank">www.chcch.ch</a><br/>
-<a href="https://www.sinotech.ch/cdn-cgi/l/email-protection" rel="noopener" target="_blank">info@chcch.ch</a>
+<a href="mailto:info@chcch.ch" rel="noopener" target="_blank">info@chcch.ch</a>
 </div>

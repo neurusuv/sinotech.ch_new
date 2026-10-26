@@ -9,7 +9,10 @@ for f in (ROOT/'content').rglob('*.md'):
  for node in body.select('[data-cfemail]'):
   address=decode(node['data-cfemail']);changes.append(address)
   if node.name=='a':node['href']='mailto:'+address;node.clear();node.append(address)
-  else:node.replace_with(address)
+  else:
+   parent=node.find_parent('a')
+   if parent and '/cdn-cgi/l/email-protection' in parent.get('href',''):parent['href']='mailto:'+address
+   node.replace_with(address)
  for a in body.select('a[href]'):
   href=a.get('href','')
   if '/cdn-cgi/l/email-protection#' in href:
